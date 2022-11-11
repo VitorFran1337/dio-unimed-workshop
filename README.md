@@ -1,2 +1,2 @@
 # dio-unimed-workshop
-Conceptual Model for an Workshop database
+Logical and Physical Models for an Workshop database
